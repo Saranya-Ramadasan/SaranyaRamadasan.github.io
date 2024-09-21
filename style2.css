@@ -1,0 +1,19 @@
+.header{
+    background: #6a7ccc;
+    width: 40%;
+    height: 75px;
+    padding-top: 1px;
+    margin-left: 420px;
+    text-align: center;
+    border-radius: 8px;
+}
+.content{
+    background: #dbdff5;
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box;
+    margin-left: 420px;
+    padding-top: 30px;
+    padding-left: 140px;
+    border-radius: 8px;
+}
